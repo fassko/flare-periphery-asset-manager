@@ -1,4 +1,4 @@
-# Flare Periphery Asset Manager
+# [Flare](https://flare.network/) Periphery Asset Manager
 
 A TypeScript example demonstrating how to interact with the [Flare Network's](https://flare.network/) [FAssets](https://dev.flare.network/fassets/overview) [AssetManager](https://dev.flare.network/fassets/reference/IAssetManager) contract on the Coston2 testnet using the `@flarenetwork/flare-periphery-contract-artifacts` package.
 
